@@ -1,0 +1,79 @@
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe.config
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.pdb
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form1.resources
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.anamenu.resources
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.sefereklecikarform.resources
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.exe
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.pdb
+C:\Users\Asus\Desktop\c# çalışmaları\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form2.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe.config
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.pdb
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.biletalduzenle.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form1.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.anamenu.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form2.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form3.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form4.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.messagebox.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.musteribilgileri.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.musterigirisi.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.sefereklecikarform.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.exe
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.pdb
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form5.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\bin\Debug\otobus.mdb
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form6.resources
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\RdlCompile.cache
+C:\Users\Asus\Desktop\proje otomasyon\proje otomasyon\obj\Debug\RdlCompile.compiled
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.biletalduzenle.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form1.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.anamenu.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form2.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form3.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form4.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form5.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.messagebox.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.musteribilgileri.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.musterigirisi.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.sefereklecikarform.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.exe
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.pdb
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\bin\Debug\otobus.mdb
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe.config
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe
+C:\Users\Fatih\Desktop\sonproje\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.pdb
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe.config
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.exe
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.pdb
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\bin\Debug\otobus.mdb
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.exe
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\bin\Debug\proje otomasyon.pdb
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.biletalduzenle.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form1.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.anamenu.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form2.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form3.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form4.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form5.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.messagebox.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.musteribilgileri.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.musterigirisi.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.sefereklecikarform.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje otomasyon.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\RdlCompile.cache
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\RdlCompile.compiled
+C:\Users\Asus\Desktop\proje son hal\sonproje\proje otomasyon\proje otomasyon\obj\Debug\proje_otomasyon.Form6.resources
